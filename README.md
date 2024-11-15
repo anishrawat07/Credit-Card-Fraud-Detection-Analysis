@@ -1,5 +1,6 @@
 # Credit-Card-Fraud-Detection-Analysis
-This repository contains the analysis of credit card transactions with the aim of detecting fraudulent activities. The project utilizes a dataset from Kaggle, which includes various transaction details, to uncover patterns and trends associated with fraud.
+- This repository contains the analysis of credit card transactions with the aim of detecting fraudulent activities. The project utilizes a dataset from Kaggle, which includes various transaction details, to uncover patterns and trends associated with fraud.
+- **Dasshboard Link**: https://charts.mongodb.com/charts-project-0-vqqhxiy/public/dashboards/1ba44ab8-38dc-4c0d-bba5-ee8dcbfeb304
 
 # About the Data 
 The dataset consists of transaction records with attributes such as transaction amounts, timestamps, merchant categories, customer demographics, and fraud labels. Key attributes include:
