@@ -1,13 +1,14 @@
 # Credit-Card-Fraud-Detection-Analysis
 This repository contains the analysis of credit card transactions with the aim of detecting fraudulent activities. The project utilizes a dataset from Kaggle, which includes various transaction details, to uncover patterns and trends associated with fraud.
 
-# About the Data
+# About the Data 
 The dataset consists of transaction records with attributes such as transaction amounts, timestamps, merchant categories, customer demographics, and fraud labels. Key attributes include:
 - **Transaction Amount**: The monetary value of the transaction.
 - **Merchant Category**: The category of the merchant where the transaction occurred.
 - **Timestamp**: The date and time of the transaction.
 - **Customer Demographics**: Information about the customer, including age and gender.
 - **Fraud Label**: A binary indicator of whether a transaction is fraudulent.
+- **Link**: https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTrain.csv
 
 # Analysis
 The analysis includes various visualizations and insights derived from the data, focusing on:
